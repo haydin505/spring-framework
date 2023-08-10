@@ -56,7 +56,7 @@ public class ProblemDetail {
 	private URI type = BLANK_TYPE;
 
 	@Nullable
-	private String title;
+	protected String title;
 
 	private int status;
 
